@@ -1,0 +1,7 @@
+*.png
+*.PNG
+__pycache__
+.idea
+/weights
+/Results
+/Data
